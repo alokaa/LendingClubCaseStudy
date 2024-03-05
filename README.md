@@ -47,7 +47,7 @@
 
 
 ## Contact
-Created by [Alok Aparanji]([https://duckduckgo.com](https://github.com/alokaa/)) - feel free to contact me!
+Created by [Alok Aparanji](https://github.com/alokaa/) - feel free to contact me!
 
 
 <!-- Optional -->
