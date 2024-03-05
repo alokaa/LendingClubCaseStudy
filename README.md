@@ -4,9 +4,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Technologies Used](#technologies-used)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -48,7 +47,7 @@
 
 
 ## Contact
-Created by [@alokaa] - feel free to contact me!
+Created by [Alok Aparanji]([https://duckduckgo.com](https://github.com/alokaa/)) - feel free to contact me!
 
 
 <!-- Optional -->
